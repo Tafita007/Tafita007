@@ -1,4 +1,6 @@
-## Hello, I’m Tafita 👋
+## Hello 👋
+
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=I'm+Tafita"></h1>
 
 <!--
 **Tafita007/Tafita007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,26 +19,12 @@ Here are some ideas to get you started:
 
 Glad to have you here on my GitHub profile! I'm a developer with a passion for software engineering, open-source contributions, and driving innovation.
 
-## Favorite Daily Technologies🐱‍💻
+<p align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=tafita007&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
+    <br>
+</p>
 
-<div style="display:inline-block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-FF7F50?style=for-the-badge&logo=java&logoColor=white"/>
-  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black"/>
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black"/>
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4B0082?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-0079C1?style=for-the-badge&logo=docker&logoColor=white"/>
-</div><br/>
-
-## 🌐 My Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafita007&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafita007&layout=compact&hide_border=true&title_color=fff&text_color=7F00FF&bg_color=0d1117" />
-<br/>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💬 I enjoy discussing
 - Web development
@@ -45,7 +33,41 @@ Glad to have you here on my GitHub profile! I'm a developer with a passion for s
 - Artificial Intelligence
 - Automation
 
-Join GitHub and fork my "Let's Grow Together" repositories.
+## 🏆 My Trophies
 
-![cover](https://github.com/Tafita007/Tafita007/blob/main/images/cover.jpeg)
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=tafita007&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
+## 🌐 Most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafita007&layout=donut&hide_border=true&title_color=fff&text_color=7F00FF&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🐱‍💻 Technologies
+
+<p align="center">
+    <a align="center" href="https://skillicons.dev" style="color: white;">
+        <!-- Version Control -->
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" alt="Version Control Icons" />
+        <br />
+        <!-- Programming Languages -->
+        <img src="https://skillicons.dev/icons?i=java,kotlin,ts,js,py" alt="Programming Languages Icons" />
+        <br />
+        <!-- Web Development -->
+        <img src="https://skillicons.dev/icons?i=html,css,react,express,nodejs" alt="Web Development Icons" />
+        <br />
+        <!-- Databases -->
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase" alt="Database Icons" />
+        <br />
+        <!-- DevOps / Infrastructure -->
+        <img src="https://skillicons.dev/icons?i=docker,nginx" alt="DevOps/Infrastructure Icons" />
+        <br />
+        <!-- Tools & Utilities -->
+        <img src="https://skillicons.dev/icons?i=discord,figma,postman,vim,linux,md" alt="Tools & Utilities Icons" />
+    </a>
+</p>
+
+
 
